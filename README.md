@@ -1,2 +1,2 @@
 # Area-Calculator
-Calculates the area of the given shapes.
+This program calculates the area or surface area of different shapes. The user selects a shape from a list, such as a square, triangle, circle, trapezoid, cube, cone, or torus. After selecting a shape, the user is asked to enter the necessary measurements, and the program calculates and shows the area or surface area. The results are rounded up using the `math.ceil` function when needed. After each calculation, the program waits for the user to press enter before closing.
